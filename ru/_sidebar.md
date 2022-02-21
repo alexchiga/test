@@ -2,7 +2,7 @@
 
   - [Перечень комплектующих Queen Pack](queen_pack)  
   - [Рекомендации по монтажу](cs_mount)  
-  - [Наладка queen pack и методика проверки](cs_check)
+  - [Наладка Queen Pack и методика проверки](cs_check)
 
 - Raspberry Pi
 
