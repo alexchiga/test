@@ -1,6 +1,6 @@
 - Control system mounting  
 
-  - [Queen pack components](queen_pack.md)    
+  - [QUEEN pack components](queen_pack.md)    
   - [Mounting recommendadtion](cs_mount.md)
 
 - Raspberry Pi

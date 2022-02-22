@@ -1,15 +1,15 @@
 - Система управления
 
-  - [Перечень комплектующих Queen Pack](queen_pack)  
-  - [Рекомендации по монтажу](cs_mount)  
-  - [Наладка Queen Pack и методика проверки](cs_check)
+  - [Перечень комплектующих QUEEN Pack](queen_pack)  
+  - [Рекомендации по монтажу](cs_mount)
+  - [Наладка QUEEN Pack и методика проверки](cs_check)
 
 - Raspberry Pi
 
-  - [Установка образа на raspberry pi](rpi_image_upload)  
-  - [Настройка IP адреса raspberry pi](rpi_ip_setup)  
-  - [Установка FTP и SSH клиентов для raspberry pi](rpi_ftp_ssh_setup)  
-  - [Инструкция по установке программного обеспечения на raspberry pi](rpi_soft_install)
+  - [Установка образа на Raspberry Pi](rpi_image_upload)  
+  - [Настройка IP-адреса Raspberry Pi](rpi_ip_setup)  
+  - [Установка FTP и SSH клиентов для Raspberry Pi](rpi_ftp_ssh_setup)  
+  - [Установка ПО на Raspberry Pi](rpi_soft_install)
 
 - Конвертеры интерфейсов
 

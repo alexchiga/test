@@ -1,10 +1,10 @@
-# Queen pack components
+# QUEEN pack components
 
 Queen pack is a component pack for the further assembling and mounting the control system:  
 
 ![cs-queen](assets/layout/cs-queen_3dview.jpg ':size=600')
 
-## Queen Pack Configuration
+## QUEEN Pack Configuration
 
 | item                                     |                        photo                        | pcs | comments, requirements, models                                            |
 |------------------------------------------|:---------------------------------------------------:|-----|---------------------------------------------------------------------------|
