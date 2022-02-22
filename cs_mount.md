@@ -15,7 +15,7 @@ After you receive a [queen pack](queen_pack), we recommend to purchase the follo
 | tapping screws                |    ![](assets/photo/screw_1.jpg ':size=50')     | much | depends on what kind of surface was chosen: plywood or textolite                            |
 | multimeter                    | ![](assets/photo/multimeter_1.jpg ':size=100')  | 1    | use multimeter later to check the connections after the mount process                       |
 
-## Queen Pack components locating
+## QUEEN Pack components locating
 
 First place all the components on the plywood
 
@@ -30,8 +30,6 @@ Plug the components using wires and cables
 ## Plugging various devices
 
 Use the following connections for plugging various devices:
-
-
 
 | connection name       | photo                                                    | description                                                                                                                                                                        |
 |-----------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

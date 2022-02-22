@@ -24,8 +24,8 @@
 - Звуковое и видео сопровождение
 
   - [Подключение звука](hw_plug_sound)  
-  - [Настройка queen sound](soft_queen_sound)  
-  - [Настройка queen tv](soft_queen_tv)
+  - [Настройка Queen Sound](soft_queen_sound)  
+  - [Настройка Queen TV](soft_queen_tv)
 
 - Требования и рекомендации
 

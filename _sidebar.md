@@ -23,8 +23,8 @@
 - Sound and TV
 
   - [Sound plugging guide](hw_plug_sound.md)
-  - [Queen sound setup](soft_queen_sound.md)
-  - [Queen tv setup](soft_queen_tv.md)
+  - [Queen Sound setup](soft_queen_sound.md)
+  - [Queen TV setup](soft_queen_tv.md)
 
 - Requirements and recommendations
 

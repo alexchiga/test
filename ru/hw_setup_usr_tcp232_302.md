@@ -57,7 +57,7 @@
 
 Для подключении [QUEEN BOARD](queen_board) необходимо воспользоваться **НЕОБЫЧНЫМ** модемным кабелем COM-порта DB9(m)-DB9(m):
 
-![usr_302_rs232](../assets/photo/db9m_db9m_cable_1.png 'size=200')
+![usr_302_rs232](../assets/photo/db9m_db9m_cable_1.png 'size=:200')
 
 Распиновка кабеля должная быть перекрестной:
 

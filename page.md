@@ -1,3 +1,0 @@
-# Page
-
-> An awesome project.

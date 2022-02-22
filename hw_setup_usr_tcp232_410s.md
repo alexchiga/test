@@ -90,7 +90,7 @@ Press "Reboot" and confirm then.
 
 In order to plug serial server to [QUEEN BOARD](queen_board) take generic modem COM-port cable DB9(f)-DB9(m):  
 
-![db9m_db9f_cable](assets/photo/db9m_db9f_cable_1.png 'size=400')
+![db9m_db9f_cable](assets/photo/db9m_db9f_cable_1.png ':size=400')
 
 Cable pinout must be as following:
 
