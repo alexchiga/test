@@ -1,34 +1,34 @@
 - Control system mounting  
 
-  - [QUEEN pack components](queen_pack.md)    
-  - [Mounting recommendadtion](cs_mount.md)
+  - [QUEEN pack components](queen_pack)    
+  - [Mounting recommendadtion](cs_mount)
 
 - Raspberry Pi
 
-  - [Raspberry Pi OS image install](rpi_image_upload.md)  
-  - [Raspberry Pi IP-adress setup](rpi_ip_setup.md)  
-  - [Raspberry Pi FTP and SSH clients install](rpi_ftp_ssh_setup.md)  
-  - [Raspberry Pi software upload](rpi_soft_install.md)
+  - [Raspberry Pi OS image install](rpi_image_upload)  
+  - [Raspberry Pi IP-adress setup](rpi_ip_setup) 
+  - [Raspberry Pi FTP and SSH clients install](rpi_ftp_ssh_setup)  
+  - [Raspberry Pi software upload](rpi_soft_install)
 
 - Serial converters setup
 
-  - [USR-TCP232-302 setup guide](hw_setup_usr_tcp232_302.md)  
-  - [USR-TCP232-410S setup guide](hw_setup_usr_tcp232_410s.md)
+  - [USR-TCP232-302 setup guide](hw_setup_usr_tcp232_302)  
+  - [USR-TCP232-410S setup guide](hw_setup_usr_tcp232_410s)
 
 - Software
 
-  - [How to download](queen_software.md)
-  - [How to activate](queen_software_activate.md)
+  - [How to download](queen_software)
+  - [How to activate](queen_software_activate)
 
 - Sound and TV
 
-  - [Sound plugging guide](hw_plug_sound.md)
-  - [Queen Sound setup](soft_queen_sound.md)
-  - [Queen TV setup](soft_queen_tv.md)
+  - [Sound plugging guide](hw_plug_sound)
+  - [Queen Sound setup](soft_queen_sound)
+  - [Queen TV setup](soft_queen_tv)
 
 - Requirements and recommendations
 
-  - [Objects naming system](reqs_object_naming_eng.md)
-  - [Cable parameter estimation](reqs_cable_cut_eng.md)
+  - [Objects naming system](reqs_object_naming)
+  - [Cable parameter estimation](reqs_cable_cut)
 
 
